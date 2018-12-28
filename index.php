@@ -7,10 +7,10 @@
     $shop = new Shop();
     $xmlw = new xmlworker();
 
-	$db->host = "housefit.mysql.tools";
-	$db->database = "housefit_shopdb";
-	$db->user = "housefit_shopdb";
-	$db->password = "xsf94pzk";
+	$db->host = "";
+	$db->database = "";
+	$db->user = "";
+	$db->password = "";
 
 	$db->connect();
 
